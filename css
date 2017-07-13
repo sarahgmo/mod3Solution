@@ -1,1 +1,22 @@
-
+body{
+	background-color: lightblue;
+}
+h1{
+	color: black;
+	font-family: 'Playfair Display', serif;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0.75;
+	text-align: left;
+}
+#header-nav{
+	border-radius: 0;
+	border: 0;
+	background-color: grey;
+	padding-top: 20px;
+}
+#nav-list a{
+	color: lightgreen;
+	text-align: center;
+	background-color: grey;
+}
