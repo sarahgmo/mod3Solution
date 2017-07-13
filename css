@@ -18,5 +18,18 @@ h1{
 #nav-list a{
 	color: lightgreen;
 	text-align: center;
+}
+@media (max-width: 767px){
+	#nav-list{
+	background-color: darkgreen;
+	}
+}
+span{
+	text-align: center;
+}
+#menu-item{
 	background-color: grey;
+	text-align: justify;
+	min-height: 1000px;
+	margin: 10px;
 }
